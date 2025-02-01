@@ -7,7 +7,7 @@ Althoff, Lukas, Brookes Gray, Harriet, & Reichardt, Hugo (2024). The Missing Lin
 Women and Intergenerational Mobility. [Working Paper](https://lukasalthoff.github.io/pdf/igm_mothers.pdf)
 
 ## Data features
-- Links 36 million unique individuals across non-adjacent census decades (112 million total linked census records)
+- Links 42 million unique individuals across non-adjacent census decades (186 million total linked census records)
 - Covers approximately 16-24% of the US population during 1910-1940 and 2-14% during 1850-1900
 - Tracks women before and after marriage using SSN application data containing both maiden and married names
 - More representative than existing historical linked census datasets, particularly for women and racial minorities
