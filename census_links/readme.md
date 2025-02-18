@@ -3,8 +3,7 @@ This repository contains crosswalks to link census records for men and women in 
 
 ### Citation
 If you use this data, please cite:
-Althoff, Lukas, Brookes Gray, Harriet, & Reichardt, Hugo (2024). The Missing Link(s): 
-Women and Intergenerational Mobility. [Working Paper](https://lukasalthoff.github.io/pdf/igm_mothers.pdf)
+Althoff, Lukas, Brookes Gray, Harriet, & Reichardt, Hugo (2024). America’s Rise in Human Capital Mobility. [Working Paper](https://lukasalthoff.github.io/pdf/igm_mothers.pdf)
 
 ## Data features
 - Links 42 million unique individuals across non-adjacent census decades (186 million total linked census records)
