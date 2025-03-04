@@ -1,6 +1,8 @@
 # Representative US Census Links (1850-1950)
 This repository contains crosswalks to link census records for men and women in the United States from 1850 to 1950, constructed by combining historical census records with Social Security Number (SSN) application data. The dataset enables tracking individuals across multiple censuses despite name changes (e.g., due to marriage) and is particularly valuable for including women in the study of intergenerational mobility.
 
+NOTE: Some versions of the census use upper-case histid identifiers, others use lower-case identifiers. All of our links use the lower-case version. Please make sure to replace potential upper-case identifiers with lower-case equivalents before merging (e.g., in Stata: "replace histid = lower(histid)").
+
 ### Citation
 If you use this data, please cite:
 Althoff, Lukas, Brookes Gray, Harriet, & Reichardt, Hugo (2024). America’s Rise in Human Capital Mobility. [Working Paper](https://lukasalthoff.github.io/pdf/igm_mothers.pdf)
